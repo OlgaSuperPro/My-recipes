@@ -34,10 +34,8 @@ body {
 }
 
 .main{
-  margin-top: -27px; 
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #FFDFAF;
   box-sizing: border-box;
   height: 80vh;
   flex-direction: row;
