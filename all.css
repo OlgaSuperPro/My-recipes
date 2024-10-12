@@ -62,3 +62,12 @@ body {
   margin-top: -450px;
   width: 27%;
 }
+
+.next{
+  box-sizing: border-box;
+  padding: 5px 10px;
+  font-size: 24px;
+  margin-left: 700px;
+  display: flex;
+  gap: 3%;
+}
