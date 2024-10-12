@@ -42,6 +42,13 @@ body {
   flex-direction: row;
 }
 
+.main_content{
+  border-radius: 22px;
+  border: 1px solid rgba(128, 27, 27, 0.12);
+  background: #FFDDB5;
+  padding-top: 30px;
+}
+
 .new {
   padding: 60px 125px;
 }
