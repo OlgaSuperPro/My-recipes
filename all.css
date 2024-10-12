@@ -79,4 +79,6 @@ body {
   margin-left: 700px;
   display: flex;
   gap: 3%;
+  color: #5A1A1A;
+  font-style: italic;
 }
