@@ -44,6 +44,7 @@ body {
 }
 
 .main_content{
+  box-sizing: border-box;
   border-radius: 22px;
   border: 1px solid rgba(128, 27, 27, 0.12);
   background: #FFDDB5;
