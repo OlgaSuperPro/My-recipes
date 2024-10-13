@@ -48,8 +48,7 @@ body {
 .main_content{
   box-sizing: border-box;
   border-radius: 22px;
-  border: 1px solid rgba(128, 27, 27, 0.12);
-  background: #FFDDB5;
+  background: #F9D2A3;
   margin-top: 20px;
   padding-bottom: 150px;
   padding-top: 50px;
@@ -77,6 +76,7 @@ body {
   margin-left: 1000px;
   margin-top: -450px;
   width: 28%;
+  height: 28%;
 }
 
 .next{
