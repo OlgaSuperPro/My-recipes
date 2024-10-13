@@ -37,7 +37,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   box-sizing: border-box;
-  height: 80vh;
+  height: 100%;
   flex-direction: row;
   margin-top: 60px;
   margin-left: 20px;
